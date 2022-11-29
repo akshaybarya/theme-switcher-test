@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/theme-switcher-test/static/css/main.e1bad15f.css",
+    "main.js": "/theme-switcher-test/static/js/main.abce9292.js",
+    "index.html": "/theme-switcher-test/index.html",
+    "main.e1bad15f.css.map": "/theme-switcher-test/static/css/main.e1bad15f.css.map",
+    "main.abce9292.js.map": "/theme-switcher-test/static/js/main.abce9292.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e1bad15f.css",
+    "static/js/main.abce9292.js"
+  ]
+}
